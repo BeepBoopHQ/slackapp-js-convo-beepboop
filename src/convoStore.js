@@ -3,7 +3,7 @@
 const persist = require('beepboop-persist')
 
 /**
- * Slackapp conversation store implementation that uses the BeepBoop key/value store persist service
+ * Slapp conversation store implementation that uses the BeepBoop key/value store persist service
  *
  * Parameters:
  * - `opts` object - options

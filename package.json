@@ -1,28 +1,28 @@
 {
-  "name": "slackapp-convo-beepboop",
+  "name": "slapp-convo-beepboop",
   "version": "0.1.1",
-  "description": "Slackapp conversation store implementation that uses the BeepBoop key/value store persist service",
+  "description": "slapp conversation store implementation that uses the BeepBoop key/value store persist service",
   "main": "index.js",
   "scripts": {
     "test": "standard"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BeepBoopHQ/slackapp-js-convo-beepboop.git"
+    "url": "git+https://github.com/BeepBoopHQ/slapp-convo-beepboop.git"
   },
   "keywords": [
     "Slack",
     "BeepBoop",
     "bots",
     "chat",
-    "slackapp"
+    "slapp"
   ],
   "author": "Mike Brevoort",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BeepBoopHQ/slackapp-js-convo-beepboop/issues"
+    "url": "https://github.com/BeepBoopHQ/slapp-convo-beepboop/issues"
   },
-  "homepage": "https://github.com/BeepBoopHQ/slackapp-js-convo-beepboop#readme",
+  "homepage": "https://github.com/BeepBoopHQ/slapp-convo-beepboop#readme",
   "dependencies": {
     "beepboop-persist": "0.0.8"
   },
